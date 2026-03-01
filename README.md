@@ -35,7 +35,7 @@ It uses **LoadLibrary injection via CreateRemoteThread**, the target process loa
 
 - Windows 10 / 11
 - Run as **Administrator** (required for Defender exclusion and process injection)
-- A running `javaw.exe` process (or any target process PID)
+- A running minecraft process. (The crack does not support all game launchers, use badlion / normal launcher)
 - Internet connection (only needed if DLLs are not already present in the directory)
 
 ---
