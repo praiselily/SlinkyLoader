@@ -11,13 +11,13 @@
 
             - SLINKY!
 ```
-> DLLs provided by Pluto Solutions — Made with love by lily
-
+> Cracks were made by Pluto Solutions, all credits to them. 
+> https://t.me/s/plutosolutions
 ---
 
 ## What is SlinkyLoader?
 
-SlinkyLoader is a lightweight DLL injector built for use with Pluto Solutions modules. It automatically handles downloading, setup, and injection — just launch it and let it do its thing.
+SlinkyLoader is a lightweight DLL injector built for use with Pluto Solutions modules. It automatically handles downloading, setup, and injection
 
 It uses **LoadLibrary injection via CreateRemoteThread**, the target process loads the DLLs natively through its own `LoadLibraryA` call.
 
@@ -29,8 +29,6 @@ It uses **LoadLibrary injection via CreateRemoteThread**, the target process loa
 - Falls back to manual PID entry if no `javaw.exe` is found
 - Downloads missing DLLs from Pluto Solutions automatically
 - Adds a Windows Defender exclusion for the current directory before downloading to prevent false positive detections
-- Colored console UI with clean minimal output
-
 ---
 
 ## Requirements
@@ -44,7 +42,7 @@ It uses **LoadLibrary injection via CreateRemoteThread**, the target process loa
 
 ## Usage
 
-1. Download the latest `injector.exe` from [Releases](https://github.com/praiselily/SlinkyLoader/releases)
+1. Download the latest `SlinkyLoader.exe` from [Releases](https://github.com/praiselily/SlinkyLoader/releases/tag/Cracked)
 2. Place it anywhere on your system
 3. **Right click → Run as Administrator**
 4. If prompted with a UAC dialog, accept it — this is for the Defender exclusion
@@ -72,4 +70,5 @@ g++ -o injector.exe injector.cpp -lurlmon -lshell32 -static -m64 -Wl,--subsystem
 
 ## Disclaimer
 
-This tool is intended for personal and legitimate modding use only. Usage against online services in violation of their Terms of Service is your own responsibility.
+I do no own this crack. I believe it's safe for use as i haven't had any issues with it, but use is at own risk. Any harm that may happen to your device upon utilizing this crack is done so at own digression. 
+If you are pluto solutions and want this repository taken down, reach me on discord @praiselily.
